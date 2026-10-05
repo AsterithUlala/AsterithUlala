@@ -6,20 +6,30 @@ that fits into everyday life.
 
 ## What I'm building
 
-<img src="assets/moji-nook-128.png" alt="Moji Nook’s weighted 文 emblem" width="80">
+**Moji Nook brings short Japanese quizzes to the corner of your screen while
+you work, read, or play.** It's a Linux desktop app for WaniKani learners:
+a small practice card appears above your other windows at an interval you
+choose. Answer a few cards, then carry on with your day.
 
-**Moji Nook** is a native desktop companion for **WaniKani** learners. It helps you
-practice Japanese kanji and vocabulary you've already learned through short
-sessions while you work, read, or play.
+- **Short bursts:** two cards per session by default; choose one to five.
+- **Your timing:** a five-minute reminder interval by default, adjustable to suit your day.
+- **Quiet prompts:** cards appear without taking keyboard focus. Choose their display and corner, and click when you're ready.
+- **Easy to pause:** dismiss a session, snooze, or pause reminders. Busy time doesn't build a backlog.
 
-- Gentle practice reminders and reading and meaning exercises.
-- Offline Japanese pronunciation.
-- Searchable word tiles that show your practice progress.
-- Light and dark appearances with a paper-and-ink design.
+<img src="assets/moji-nook-practice-prompt.png" alt="Moji Nook's small reading practice card with a Reveal answer button" width="352">
 
-Moji Nook is under active development on Linux, with testing focused on KDE Plasma
-on Wayland. A public release and packaged downloads are still in preparation.
-It is an independent project, unaffiliated with WaniKani.
+*An actual practice card, using a sample word. You can keep the dashboard closed
+and let Moji Nook run in the system tray.*
+
+Practice kanji and vocabulary you've already learned in WaniKani through typed
+answers, multiple choice, or self-rated recall, with offline Japanese
+pronunciation. Open the dashboard when you want to browse learned words or
+review your practice history.
+
+Moji Nook is under active development on Linux, with testing focused on KDE
+Plasma on Wayland. A public release and packaged downloads are still in
+preparation. It is an independent project, unaffiliated with WaniKani, and never
+submits WaniKani reviews or changes your WaniKani progress.
 
 ## Support development
 
