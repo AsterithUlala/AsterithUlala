@@ -1,8 +1,7 @@
 # Asterith Ulala
 
 I build practical Linux desktop apps to solve problems in my own life, then share
-what helps others. I care about useful tools, thoughtful interfaces, and software
-that fits into everyday life.
+what helps others.
 
 ## What I'm building
 
